@@ -2,4 +2,4 @@
 
 I took mine from a downloaded image on my desktop
 
-Remember to use your filr location and image name in the locations!
+Remember to use your file location and image name in the locations!
