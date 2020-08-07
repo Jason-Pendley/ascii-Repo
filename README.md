@@ -1,3 +1,5 @@
-# ASCII Art
+# ASCII Art converter
 
-I used a file to hold the converted image
+I took mine from a downloaded image on my desktop
+
+Remember to use your filr location and image name in the locations!
